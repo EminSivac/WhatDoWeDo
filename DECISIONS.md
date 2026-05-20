@@ -1,4 +1,3 @@
 1. PWA bc of iPhone
-2. Event API
-3. Weather API
-4.
+2. next.js as frontend
+3. postgresql as database
